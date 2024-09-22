@@ -147,6 +147,7 @@ This section outlines the items that should always be stocked in different areas
 - **Tea** (variety of black, green, and herbal teas)
 - **Sugar/Sweeteners** (white sugar, brown sugar, and artificial sweeteners)
 - **Powdered Milk**
+- **Corn for Popcorn**
 - **Cacao Powder**
 - **Cooking Oil** (olive oil or vegetable oil)
 - **Balsamic Vinegar**
@@ -160,7 +161,7 @@ This section outlines the items that should always be stocked in different areas
 - **Coffee Filters** (if applicable for the coffee machine)
 - **Tea Towels** (for drying dishes)
 - **Snacks** (chocolates, biscuits, or small welcome treats)
-- **Water Filter**
+- **Water Filter** (Replace the water filter annually. Record the replacement date in the log and clearly label the date of the next change on the filter drawer to ensure timely maintenance).
 
 ### Others (General Supplies):
 - **Cleaning Cloths** (microfiber for dusting and wiping)
@@ -225,6 +226,7 @@ This section outlines the items that should always be stocked in different areas
 
 ### Fire or Smoke Alarms:
 - If an alarm sounds, follow fire evacuation protocols (alert guests and direct them to exits).
+- **Ensure smoke alarms are fully operational.** Test each alarm every 15 days, and document the test results in the log to maintain a record of compliance and safety.
 - Fire Extinguishers needs to be operational
 
 ### Power Outages:
