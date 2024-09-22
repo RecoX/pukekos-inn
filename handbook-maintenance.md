@@ -116,7 +116,7 @@ A thorough clean between each guest stay is essential to maintaining high standa
 
 ### Toiletries:
 - Shampoo, conditioner, body wash, and soap.
-- Toothpaste (if applicable) and toilet paper.
+- Toothpaste and toilet paper.
 - Fresh towels and washcloths.
 
 ### Cleaning Supplies:
@@ -170,7 +170,7 @@ This section outlines the items that should always be stocked in different areas
 - **Air Freshener**
 - **Broom and Dustpan**
 - **Mop and Bucket**
-- **Vacuum Filters** (if applicable)
+- **Vacuum Filters**
 - **Laundry Detergent** (for guest use if laundry is available)
 - **Fabric Softener**
 - **Garbage Bags** (variety of sizes for different trash cans)
