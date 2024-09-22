@@ -61,6 +61,9 @@ Your role as a property manager includes:
 - Complete a thorough cleaning of the property (see "Room Cleaning Guidelines").
 - Replenish any consumable items (coffee, tea, toiletries).
 - Water the plants during your post-checkout inspection to keep them well-maintained.
+- Clean the vacuum filter.
+- Clean the washing wachine and dryer filters.
+- Refill with water the coffee machine.
 - Clean the balconies to ensure they are free from debris and presentable.
 - Change the key lockbox access code.
 
@@ -93,7 +96,8 @@ A thorough clean between each guest stay is essential to maintaining high standa
 - Dust all surfaces, including tables, shelves, and electronics.
 - Vacuum or mop the floors.
 - Fluff and arrange pillows on sofas.
-- Ensure all entertainment equipment is functional (TV, Wi-Fi).
+- Clean pillows every 15 days and log the cleaning date in the calendar to ensure regular maintenance and hygiene.
+- Ensure all entertainment equipment is functional (TV, Wi-Fi, Anycast, Videogames, etc).
 
 ### Balconies:
 - Sweep and mop the balcony floors.
@@ -166,7 +170,7 @@ This section outlines the items that should always be stocked in different areas
 - **Air Freshener**
 - **Broom and Dustpan**
 - **Mop and Bucket**
-- **Vacuum Cleaner Bags** (if applicable)
+- **Vacuum Filters** (if applicable)
 - **Laundry Detergent** (for guest use if laundry is available)
 - **Fabric Softener**
 - **Garbage Bags** (variety of sizes for different trash cans)
@@ -226,3 +230,6 @@ This section outlines the items that should always be stocked in different areas
 ### Power Outages:
 - Provide candles in case of outages.
 - Report prolonged outages to the relevant authorities and update guests.
+
+---
+
