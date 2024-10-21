@@ -45,7 +45,7 @@
 - Log the quantity of each and **advise if more needs replenishing**.
 
 #### **Final Touches:**
-- **Check light bulbs**, replace any that are burnt out.
+- **Check light bulbs**, advise of any that are burnt out.
 - **Test electronics**, such as the TV and Wi-Fi, to ensure they are working properly.
 - **Organize and tidy any clutter** that may have accumulated.
 - **Air out the apartment** by opening windows for a few minutes, if possible, to refresh the space.
