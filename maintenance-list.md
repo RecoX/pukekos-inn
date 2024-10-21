@@ -97,8 +97,7 @@
 - Air Freshener
 - Broom and Dustpan
 - Mop and Bucket
-- Vacuum Filters
-- Laundry Detergent (for guest use if laundry is available)
+- Laundry Detergent
 - Fabric Softener
 - Garbage Bags (variety of sizes for different trash cans)
 - First-Aid Kit (basic supplies, check periodically for expired items)
