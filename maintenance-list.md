@@ -30,6 +30,7 @@
 - **Replenish toiletries** such as shampoo, conditioner, hand soap, and toilet paper.
 - **Ensure all towels are replaced** with clean ones.
 - **Clean inside the rubbish bin** and sanitize it.
+- **Put toilet tablet deodorant** in toilet cistern.
 
 #### **Balconies:**
 - **Sweep and mop the balcony floors**.
@@ -65,6 +66,7 @@
 - Toothpaste
 - Towels (hand towels, bath towels, and washcloths)
 - Toilet Cleaner
+- Toilet Cleaning Tablet
 - Air Freshener or Room Spray
 - Toilet Brush (replace periodically)
 - Trash Bags (for small bathroom bin)
